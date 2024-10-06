@@ -1,0 +1,1 @@
+### i hate to do this but zsh-mommy is now moved to https://git.gay/tuhana/zsh-mommy and i will delete this github repo soon so pretty please upgrade your omz remote or your plugin manager thingies, ily
